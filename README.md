@@ -1,3 +1,9 @@
+#Preview of my application
+
+![image](https://github.com/aashiasorathia/Travel-and-Adventure-Blog-Application/assets/98218161/dc8cfcc6-9dac-449b-accb-538160ab8000)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
